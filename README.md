@@ -1,16 +1,13 @@
 ### Hi there 👋
 
-<!--
-**NaufalAzmig/NaufalAzmig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# NaufalAzmig
+- 👋 Hi, I’m @NaufalAzmig. In real life, my name is Naufal Azmi G. I'm a college student in Information System
+- 👀 I’m interested in Datascience, Web Developer, and Mobile Developer
+- 🌱 I’m currently learning Python, Java, and Web Design
+- 💞️ I’m looking to collaborate on Web Developer
+- 📫 How to reach me Facebook : Naufal Azmi Ginting or Naufal Azmi
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Bahasa Indonesia
+Hai semua , Saya masih pemula
+Nama Saya Naufal Azmi Ginting
+Github kedua saya : BoboiAzumi
