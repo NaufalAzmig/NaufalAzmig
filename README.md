@@ -7,5 +7,7 @@
 
 # Bahasa Indonesia
 Hai semua , Saya masih pemula
+
 Nama Saya Naufal Azmi Ginting
+
 Github kedua saya : BoboiAzumi
