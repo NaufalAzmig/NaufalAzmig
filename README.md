@@ -1,5 +1,3 @@
-### Hi there 👋
-
 # NaufalAzmig
 - 👋 Hi, I’m @NaufalAzmig. In real life, my name is Naufal Azmi G. I'm a college student in Information System
 - 👀 I’m interested in Datascience, Web Developer, and Mobile Developer
